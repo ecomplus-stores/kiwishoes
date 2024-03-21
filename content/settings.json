@@ -1,26 +1,26 @@
 {
-  "store_id": 1132,
-  "name": "kiwishoes",
   "domain": "kiwishoes.netlify.app",
-  "short_name": "kiwishoes",
-  "description": "kiwishoes",
+  "currency_symbol": "R$",
   "primary_color": "#222831",
-  "secondary_color": "#393e46",
-  "bg_color": "#ffffff",
   "theme": {
-    "bootswatch": "_",
-    "custom": "_"
+    "bootswatch": "yeti",
+    "custom": "ecom-beauty"
   },
+  "bg_color": "#ffffff",
+  "repository": "ecomplus-stores/kiwishoes",
   "logo": "/img/uploads/logo.png",
-  "mini_logo": "",
-  "icon": "/img/icon.png",
-  "large_icon": "/img/large-icon.png",
-  "favicon": "/img/uploads/favicon.png",
+  "name": "kiwishoes",
+  "short_name": "kiwishoes",
   "lang": "pt_br",
   "currency": "BRL",
-  "currency_symbol": "R$",
-  "country_code": "BR",
-  "repository": "ecomplus-stores/kiwishoes",
+  "mini_logo": "",
+  "font_family": "_",
+  "favicon": "/img/uploads/favicon.png",
   "icons_font": "_",
-  "font_family": "_"
+  "country_code": "BR",
+  "secondary_color": "#393e46",
+  "icon": "/img/icon.png",
+  "store_id": 1132,
+  "description": "kiwishoes",
+  "large_icon": "/img/large-icon.png"
 }
