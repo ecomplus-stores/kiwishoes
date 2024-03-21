@@ -1,5 +1,5 @@
 {
-  "css": ".body {\n  font-family: \"Raleway\", sans-serif;\n}",
+  "css": ".body {\n  font-family: \"Raleway\", sans-serif;\n}\n\n.header__nav {\n    font-family: raleway;\n}\n\n.products-carousel__title a, .products-carousel__title span {\n    font-family: raleway;\n    font-weight: 700;\n}",
   "html_head": "<style>\n@import url('https://fonts.googleapis.com/css2?family=Raleway:ital,wght@0,100..900;1,100..900&display=swap')\n</style>\n\n<link rel=\"preconnect\" href=\"https://fonts.googleapis.com\">\n<link rel=\"preconnect\" href=\"https://fonts.gstatic.com\" crossorigin>\n<link href=\"https://fonts.googleapis.com/css2?family=Raleway:ital,wght@0,100..900;1,100..900&display=swap\" rel=\"stylesheet\">",
   "html_body": ""
 }
