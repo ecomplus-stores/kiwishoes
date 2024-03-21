@@ -8,7 +8,8 @@
   "centralized_logo": false,
   "marketing_stripe": {
     "text": "Aproveite nossos descontos de até 50%!",
-    "link": "/promotion"
+    "link": "/promotion",
+    "background": "#549e58"
   },
   "alphabetical_order_submenu": false,
   "name_all_departments": "",
