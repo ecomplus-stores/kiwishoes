@@ -37,6 +37,13 @@
       "headless": false,
       "limit": 12,
       "page": 1
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 12,
+      "page": 1,
+      "collection_id": "5f15b6a414ff772fde80fcb7:categories:Tênis:/tenis"
     }
   ]
 }
