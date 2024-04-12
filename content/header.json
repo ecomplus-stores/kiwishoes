@@ -1,6 +1,9 @@
 {
   "categories_list": {
-    "featured": [],
+    "featured": [
+      "/tenis?Tênis",
+      "/bota?Bota"
+    ],
     "random": 6,
     "full_width": true
   },
