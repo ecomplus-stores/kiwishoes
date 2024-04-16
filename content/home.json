@@ -44,6 +44,13 @@
       "limit": 12,
       "page": 1,
       "collection_id": "6615808a0fc534303df5a561:categories:Papete:/papete"
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 12,
+      "page": 1,
+      "collection_id": "5f2ac341f023684cdbd77028:categories:Sandália:/sandalia"
     }
   ]
 }
