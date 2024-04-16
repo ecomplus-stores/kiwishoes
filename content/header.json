@@ -3,7 +3,9 @@
     "featured": [
       "/tenis?Tênis",
       "/bota?Bota",
-      "/papete?Papete"
+      "/papete?Papete",
+      "/sandalia?Sandália",
+      "/scarpin?Scarpin"
     ],
     "random": 0,
     "full_width": true
