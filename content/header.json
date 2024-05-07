@@ -5,7 +5,8 @@
       "/tenis?Tênis",
       "/papetes?Papetes",
       "/sandalia?Sandália",
-      "/scarpin?Scarpin"
+      "/scarpin?Scarpin",
+      "/outlet?Outlet"
     ],
     "random": 0,
     "full_width": true
@@ -23,7 +24,9 @@
   "desktop_megamenu": false,
   "full_width_submenu": true,
   "contacts_stripe": {
-    "pages": [],
+    "pages": [
+      {}
+    ],
     "phone_wpp": false,
     "socials": false
   }
