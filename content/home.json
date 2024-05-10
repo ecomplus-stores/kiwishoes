@@ -8,6 +8,13 @@
       "full_width": true,
       "slides": [
         {
+          "start": "2024-05-01T04:00:00.000Z",
+          "end": "2024-05-18T02:59:00.000Z",
+          "img": "/img/uploads/fullbanneroutletbotasdesktop.png",
+          "link": "https://kiwishoes.netlify.app/outlet",
+          "mobile_img": "/img/uploads/fullbanneroutletbotasmobile.png"
+        },
+        {
           "img": "/img/uploads/bannergrupovipfullbanner.jpg",
           "link": "https://chat.whatsapp.com/Bw1dxc1P8A1GcfTJX1SCTx",
           "alt": "",
