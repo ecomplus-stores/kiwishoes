@@ -15,12 +15,12 @@
           "mobile_img": "/img/uploads/banner-vizzano-mobile.webp"
         },
         {
-          "img": "/img/uploads/desktop-vip.png",
+          "img": "/img/uploads/banner-vip-desktop.webp",
           "link": "https://kiwishoes.com.br/pages/grupo-vip",
           "alt": "",
           "start": "2020-04-11T05:54:06.750Z",
           "end": "2025-07-10T03:00:00.000Z",
-          "mobile_img": "/img/uploads/mobile-vip.png"
+          "mobile_img": "/img/uploads/banner-vip-mobile.webp"
         }
       ]
     },
