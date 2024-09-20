@@ -8,18 +8,18 @@
       "full_width": true,
       "slides": [
         {
+          "start": "2024-07-17T19:45:03.340Z",
+          "end": "2025-02-01T03:00:00.000Z",
+          "img": "/img/uploads/kenner-desktop.jpg",
+          "link": "https://kiwishoes.com.br/kenner",
+          "mobile_img": "/img/uploads/kenner-mobile.jpg"
+        },
+        {
           "start": "2024-07-17T19:22:32.996Z",
           "end": "2024-09-19T02:59:00.000Z",
           "img": "/img/uploads/banner-olympikus-desktop.webp",
           "link": "https://kiwishoes.com.br/tenis-olympikus",
           "mobile_img": "/img/uploads/banner-olympikus-mobile.webp"
-        },
-        {
-          "start": "2024-07-17T19:45:03.340Z",
-          "end": "2025-02-01T03:00:00.000Z",
-          "img": "/img/uploads/banner-malas-desktop.webp",
-          "link": "https://kiwishoes.com.br/malas",
-          "mobile_img": "/img/uploads/banner-malas-mobile.webp"
         },
         {
           "img": "/img/uploads/banner-vip-desktop.webp",
