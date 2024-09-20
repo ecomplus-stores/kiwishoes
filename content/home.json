@@ -8,6 +8,14 @@
       "full_width": true,
       "slides": [
         {
+          "img": "/img/uploads/banner-vip-desktop.webp",
+          "link": "https://kiwishoes.com.br/pages/grupo-vip",
+          "alt": "",
+          "start": "2024-07-17T19:23:34.385Z",
+          "end": "2025-07-10T03:00:00.000Z",
+          "mobile_img": "/img/uploads/banner-vip-mobile.webp"
+        },
+        {
           "start": "2024-07-17T19:45:03.340Z",
           "end": "2025-02-01T03:00:00.000Z",
           "img": "/img/uploads/kenner-desktop.jpg",
@@ -20,14 +28,6 @@
           "img": "/img/uploads/banner-olympikus-desktop.webp",
           "link": "https://kiwishoes.com.br/tenis-olympikus",
           "mobile_img": "/img/uploads/banner-olympikus-mobile.webp"
-        },
-        {
-          "img": "/img/uploads/banner-vip-desktop.webp",
-          "link": "https://kiwishoes.com.br/pages/grupo-vip",
-          "alt": "",
-          "start": "2024-07-17T19:23:34.385Z",
-          "end": "2025-07-10T03:00:00.000Z",
-          "mobile_img": "/img/uploads/banner-vip-mobile.webp"
         }
       ]
     },
