@@ -33,13 +33,6 @@
       "shuffle": false,
       "limit": 12,
       "page": 1,
-      "collection_id": "5f15b6a414ff772fde80fcb7:categories:Tênis:/tenis"
-    },
-    {
-      "type": "collection-shelf",
-      "shuffle": false,
-      "limit": 12,
-      "page": 1,
       "collection_id": "66fb09ab9e4b2e07f51ffa7e:brands:Lynd:/tenis-lynd"
     },
     {
@@ -48,6 +41,13 @@
       "limit": 12,
       "page": 1,
       "collection_id": "5f15b57514ff772fde80fc96:brands:Club 21:/club-21"
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 12,
+      "page": 1,
+      "collection_id": "5f15b6a414ff772fde80fcb7:categories:Tênis:/tenis"
     },
     {
       "type": "collection-shelf",
