@@ -8,6 +8,13 @@
       "full_width": true,
       "slides": [
         {
+          "start": "",
+          "end": "",
+          "img": "/img/uploads/banner-desktop.png",
+          "mobile_img": "/img/uploads/banner-mobile.png",
+          "link": "https://kiwishoes.com.br/club-21"
+        },
+        {
           "img": "/img/uploads/banner-vip-desktop.webp",
           "link": "https://kiwishoes.com.br/pages/grupo-vip",
           "alt": "",
