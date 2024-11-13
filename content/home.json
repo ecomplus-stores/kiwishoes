@@ -8,6 +8,13 @@
       "full_width": true,
       "slides": [
         {
+          "start": "2024-11-01T03:00:00.000Z",
+          "end": "2024-12-01T02:01:00.000Z",
+          "img": "/img/uploads/desktop-black-allstar.jpg",
+          "link": "https://kiwishoes.com.br/converse",
+          "mobile_img": "/img/uploads/mobile-black-allstar-1-.jpg"
+        },
+        {
           "start": "",
           "end": "",
           "img": "/img/uploads/banner-desktop.png",
@@ -21,13 +28,6 @@
           "start": "2024-07-17T19:23:34.385Z",
           "end": "2025-07-10T03:00:00.000Z",
           "mobile_img": "/img/uploads/banner-vip-mobile.webp"
-        },
-        {
-          "start": "2024-11-01T03:00:00.000Z",
-          "end": "2024-12-01T02:01:00.000Z",
-          "img": "/img/uploads/desktop-black-allstar.jpg",
-          "link": "https://kiwishoes.com.br/converse",
-          "mobile_img": "/img/uploads/mobile-black-allstar-1-.jpg"
         }
       ]
     },
