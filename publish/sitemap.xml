@@ -668,19 +668,7 @@
     </url>
   
     <url>
-      <loc>https://www.kiwishoes.com.br/sapato-club-21-amarracao-ouro-light</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.9</priority>
-    </url>
-  
-    <url>
       <loc>https://www.kiwishoes.com.br/sandalia-club-21-amarracao-strass-prata</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.9</priority>
-    </url>
-  
-    <url>
-      <loc>https://www.kiwishoes.com.br/sandalia-club-21-amarracao-strass-ouro</loc>
       <changefreq>weekly</changefreq>
       <priority>0.9</priority>
     </url>
@@ -693,42 +681,6 @@
   
     <url>
       <loc>https://www.kiwishoes.com.br/papete-club-21-cristal-ouro</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.9</priority>
-    </url>
-  
-    <url>
-      <loc>https://www.kiwishoes.com.br/papete-club-21-laboure-ouro</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.9</priority>
-    </url>
-  
-    <url>
-      <loc>https://www.kiwishoes.com.br/papete-club-21-corrente-preto</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.9</priority>
-    </url>
-  
-    <url>
-      <loc>https://www.kiwishoes.com.br/sandalia-club-21-ouro-light</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.9</priority>
-    </url>
-  
-    <url>
-      <loc>https://www.kiwishoes.com.br/papete-club-21-corrente-aveia</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.9</priority>
-    </url>
-  
-    <url>
-      <loc>https://www.kiwishoes.com.br/sandalia-club-21-gisele-strass-verniz-prata</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.9</priority>
-    </url>
-  
-    <url>
-      <loc>https://www.kiwishoes.com.br/sandalia-flat-form-club-21-whisky</loc>
       <changefreq>weekly</changefreq>
       <priority>0.9</priority>
     </url>
@@ -819,6 +771,12 @@
   
     <url>
       <loc>https://www.kiwishoes.com.br/sapato-club-21-salto-baixo-verniz-preto</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://www.kiwishoes.com.br/sandalia-club-21-ouro-light</loc>
       <changefreq>weekly</changefreq>
       <priority>0.9</priority>
     </url>
@@ -1544,6 +1502,12 @@
     </url>
   
     <url>
+      <loc>https://www.kiwishoes.com.br/pages/faq</loc>
+      <changefreq>monthly</changefreq>
+      <priority>0.7</priority>
+    </url>
+  
+    <url>
       <loc>https://www.kiwishoes.com.br/pages/grupo-vip</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
@@ -1563,12 +1527,6 @@
   
     <url>
       <loc>https://www.kiwishoes.com.br/pages/trocas</loc>
-      <changefreq>monthly</changefreq>
-      <priority>0.7</priority>
-    </url>
-  
-    <url>
-      <loc>https://www.kiwishoes.com.br/pages/faq</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
     </url>
