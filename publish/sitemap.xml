@@ -1238,24 +1238,6 @@
     </url>
   
     <url>
-      <loc>https://www.kiwishoes.com.br/anuncio</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
-      <loc>https://www.kiwishoes.com.br/tenis-vizzano</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
-      <loc>https://www.kiwishoes.com.br/tenis-olympikus</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
       <loc>https://www.kiwishoes.com.br/santa-lolla</loc>
       <changefreq>weekly</changefreq>
       <priority>0.8</priority>
@@ -1353,6 +1335,24 @@
   
     <url>
       <loc>https://www.kiwishoes.com.br/tenis-lynd</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://www.kiwishoes.com.br/anuncio</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://www.kiwishoes.com.br/tenis-vizzano</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://www.kiwishoes.com.br/tenis-olympikus</loc>
       <changefreq>weekly</changefreq>
       <priority>0.8</priority>
     </url>
