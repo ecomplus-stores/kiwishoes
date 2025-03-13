@@ -1,0 +1,37 @@
+{
+  "icons": [
+    {
+      "src": "/icon_512x512.285334b9e9dfbb7d09b3e2029bdf5666.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_384x384.790951ccb11143c47f3a1baeb628a8ae.png",
+      "sizes": "384x384",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_192x192.a467942c95417da57016ddacecaf65a0.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_128x128.3af778e815a48c885ccbfb80986230e1.png",
+      "sizes": "128x128",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_96x96.d9cc52f7680b1d0cb5e0e4ebf9b6a32d.png",
+      "sizes": "96x96",
+      "type": "image/png"
+    }
+  ],
+  "name": "Kiwishoes",
+  "short_name": "Kiwishoes",
+  "orientation": "portrait",
+  "display": "standalone",
+  "start_url": ".",
+  "description": "kiwishoes ",
+  "background_color": "#ffffff",
+  "theme_color": "#222831"
+}
